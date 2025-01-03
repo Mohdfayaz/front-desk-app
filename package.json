@@ -1,0 +1,19 @@
+{
+  "name": "front-desk-app",
+  "version": "1.0.0",
+  "description": "learn front desk app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdfayaz/front-desk-app.git"
+  },
+  "author": "Mohammed Fayaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdfayaz/front-desk-app/issues"
+  },
+  "homepage": "https://github.com/Mohdfayaz/front-desk-app#readme"
+}
