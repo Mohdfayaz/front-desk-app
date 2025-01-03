@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mohdfayaz/front-desk-app/issues"
   },
-  "homepage": "https://github.com/Mohdfayaz/front-desk-app#readme"
+  "homepage": "https://github.com/Mohdfayaz/front-desk-app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
