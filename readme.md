@@ -9,3 +9,19 @@ Search for appointments by customer name
 Roles: Admin, Manager, Receptionist
 Authentication using JWT
 Authorization using roles
+
+## Setup
+ Setting up NPM application
+ Setting up Git repository
+ Express server setup
+ MongoDB setup
+ Dotenv setup
+ Dotenv - config.js setup
+ Split server.js into server.js and app.js
+ Setup Router
+ Setup Controller
+ Setup Model
+ Auth Endpoints - register, login, logout, me
+ Setup Middleware - checkAuth, checkRole
+ Setup routes for customers
+ Setup routes for appointments
